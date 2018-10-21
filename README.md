@@ -1,5 +1,8 @@
 # APM
 
+La URL es:                 www.pluralsight.com
+El usuario de acceso es:   bayteqcapacitacion
+La contraseña es:          B@yt3qUi02003
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
